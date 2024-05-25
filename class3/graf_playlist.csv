@@ -1,0 +1,982 @@
+source,target
+Ven'nus,Massaviu
+Massaviu,Noxtorn
+Massaviu,poggioli
+Massaviu,Moli
+Massaviu,Caldo
+Massaviu,roserona
+Massaviu,Lluc
+Massaviu,Ariox
+Massaviu,xicu
+Massaviu,Iglú
+Massaviu,Uri
+Massaviu,Galgo Lento
+Massaviu,kuu
+Massaviu,Pol Bordas
+Massaviu,Joe Pops
+Massaviu,paunezz
+Massaviu,Cooba
+Massaviu,Ven'nus
+Massaviu,Pau Roget
+Massaviu,miquel
+Massaviu,Geri
+Ven'nus,Ven'nus
+Ven'nus,Ariox
+Ven'nus,xicu
+Ven'nus,roserona
+Ven'nus,Al·lèrgiques al pol·len
+Ven'nus,Iglú
+Ven'nus,Caldo
+Ven'nus,Massaviu
+Ven'nus,Moli
+Ven'nus,paunezz
+Ven'nus,MARIA HEIN
+Ven'nus,Jo Jet i Maria Ribot
+Ven'nus,bert bert
+Ven'nus,Cooba
+Ven'nus,Socunbohemio
+Ven'nus,Galgo Lento
+Ven'nus,kuu
+Ven'nus,Lluc
+Ven'nus,Maio
+Ven'nus,miquel
+Ven'nus,Maria Jaume
+Ven'nus,Ariox
+Ariox,Caldo
+Ariox,Galgo Lento
+Ariox,Massaviu
+Ariox,xicu
+Ariox,Ven'nus
+Ariox,roserona
+Ariox,Noxtorn
+Ariox,Moli
+Ariox,Cooba
+Ariox,kuu
+Ariox,Uri
+Ariox,paunezz
+Ariox,Iglú
+Ariox,MARIA HEIN
+Ariox,Lluc
+Ariox,Al·lèrgiques al pol·len
+Ariox,Reïna
+Ariox,VITTARA
+Ariox,Jo Jet i Maria Ribot
+Ariox,miquel
+Ven'nus,roserona
+roserona,Massaviu
+roserona,Ariox
+roserona,Moli
+roserona,Uri
+roserona,Caldo
+roserona,Ven'nus
+roserona,Iglú
+roserona,Noxtorn
+roserona,paunezz
+roserona,Lluc
+roserona,MARIA HEIN
+roserona,miquel
+roserona,VITTARA
+roserona,Socunbohemio
+roserona,Al·lèrgiques al pol·len
+roserona,Galgo Lento
+roserona,poggioli
+roserona,Vienna
+roserona,Reïna
+roserona,Cooba
+Ven'nus,Maria Jaume
+Maria Jaume,Reïna
+Maria Jaume,MARIA HEIN
+Maria Jaume,Da Souza
+Maria Jaume,Lluís Cabot
+Maria Jaume,Socunbohemio
+Maria Jaume,Ariox
+Maria Jaume,Renaldo & Clara
+Maria Jaume,Ven'nus
+Maria Jaume,Miquel Serra
+Maria Jaume,Jo Jet i Maria Ribot
+Maria Jaume,Anna Andreu
+Maria Jaume,Al·lèrgiques al pol·len
+Maria Jaume,Plan-ET
+Maria Jaume,Guillem Gisbert
+Maria Jaume,La Ludwig Band
+Maria Jaume,FADES
+Maria Jaume,roserona
+Maria Jaume,Iglú
+Maria Jaume,Salvatge Cor
+Maria Jaume,Pau Vallvé
+Ven'nus,xicu
+xicu,Ariox
+xicu,Massaviu
+xicu,Uri
+xicu,roserona
+xicu,Iglú
+xicu,Ven'nus
+xicu,paunezz
+xicu,Caldo
+xicu,Moli
+xicu,kuu
+xicu,miquel
+xicu,Galgo Lento
+xicu,Vernat
+xicu,Lluc
+xicu,VITTARA
+xicu,bert bert
+xicu,Valhua
+xicu,Socunbohemio
+xicu,Al·lèrgiques al pol·len
+xicu,Jo Jet i Maria Ribot
+Ven'nus,miquel
+miquel,paunezz
+miquel,xicu
+miquel,guillembautista
+miquel,Massaviu
+miquel,Ariox
+miquel,roserona
+miquel,Iglú
+miquel,Ven'nus
+miquel,Moli
+miquel,Uri
+miquel,Nafría
+miquel,Socunbohemio
+miquel,bert bert
+miquel,Galgo Lento
+miquel,kuu
+miquel,Caldo
+miquel,Reïna
+miquel,Jo Jet i Maria Ribot
+miquel,VITTARA
+miquel,Lluc
+Ven'nus,MARIA HEIN
+MARIA HEIN,Maria Jaume
+MARIA HEIN,Reïna
+MARIA HEIN,Ariox
+MARIA HEIN,FADES
+MARIA HEIN,Plan-ET
+MARIA HEIN,Ven'nus
+MARIA HEIN,roserona
+MARIA HEIN,kuu
+MARIA HEIN,xicu
+MARIA HEIN,Da Souza
+MARIA HEIN,Socunbohemio
+MARIA HEIN,Al·lèrgiques al pol·len
+MARIA HEIN,Lluc
+MARIA HEIN,VITTARA
+MARIA HEIN,bert bert
+MARIA HEIN,Júlia Colom
+MARIA HEIN,Julieta
+MARIA HEIN,Galgo Lento
+MARIA HEIN,Massaviu
+MARIA HEIN,Iglú
+Ven'nus,bert bert
+bert bert,Azul
+bert bert,Iglú
+bert bert,Galgo Lento
+bert bert,kuu
+bert bert,xicu
+bert bert,Ven'nus
+bert bert,Reïna
+bert bert,Lluc
+bert bert,Ariox
+bert bert,Massaviu
+bert bert,Caldo
+bert bert,Uri
+bert bert,VITTARA
+bert bert,roserona
+bert bert,miquel
+bert bert,paunezz
+bert bert,Socunbohemio
+bert bert,FADES
+bert bert,poggioli
+bert bert,Pol Bordas
+Ven'nus,Reïna
+Reïna,Garrafa Nadal
+Reïna,Plan-ET
+Reïna,Lluís Cabot
+Reïna,Maria Jaume
+Reïna,Roig!
+Reïna,Da Souza
+Reïna,Miquel Serra
+Reïna,MARIA HEIN
+Reïna,Jorra i Gomorra
+Reïna,Miquel de la Mel
+Reïna,Ariox
+Reïna,Salvatge Cor
+Reïna,bert bert
+Reïna,Iglú
+Reïna,Nita
+Reïna,Roger Pistola
+Reïna,Mar Grimalt
+Reïna,roserona
+Reïna,Ven'nus
+Reïna,Saïm
+Ven'nus,Caldo
+Caldo,Cooba
+Caldo,ari llobet
+Caldo,Uri
+Caldo,Noxtorn
+Caldo,Ariox
+Caldo,Massaviu
+Caldo,Svetlana
+Caldo,xicu
+Caldo,roserona
+Caldo,Moli
+Caldo,Ouineta
+Caldo,Ven'nus
+Caldo,Lluc
+Caldo,FADES
+Caldo,kuu
+Caldo,La Queency
+Caldo,Galgo Lento
+Caldo,Joe Pops
+Caldo,Iglú
+Caldo,Katta Lana
+Ven'nus,Iglú
+Iglú,Massaviu
+Iglú,xicu
+Iglú,kuu
+Iglú,Lluc
+Iglú,bert bert
+Iglú,Ven'nus
+Iglú,Ariox
+Iglú,roserona
+Iglú,Vernat
+Iglú,Uri
+Iglú,miquel
+Iglú,Reïna
+Iglú,Lal'Ba
+Iglú,Vienna
+Iglú,Moli
+Iglú,Galgo Lento
+Iglú,Caldo
+Iglú,paunezz
+Iglú,Al·lèrgiques al pol·len
+Iglú,Malson Atmosfèric
+Ven'nus,Al·lèrgiques al pol·len
+Al·lèrgiques al pol·len,Ven'nus
+Al·lèrgiques al pol·len,Ariox
+Al·lèrgiques al pol·len,roserona
+Al·lèrgiques al pol·len,Iglú
+Al·lèrgiques al pol·len,xicu
+Al·lèrgiques al pol·len,Maria Jaume
+Al·lèrgiques al pol·len,Maio
+Al·lèrgiques al pol·len,MARIA HEIN
+Al·lèrgiques al pol·len,Socunbohemio
+Al·lèrgiques al pol·len,Caldo
+Al·lèrgiques al pol·len,Ginestà
+Al·lèrgiques al pol·len,Jo Jet i Maria Ribot
+Al·lèrgiques al pol·len,Vienna
+Al·lèrgiques al pol·len,Massaviu
+Al·lèrgiques al pol·len,Reïna
+Al·lèrgiques al pol·len,Moli
+Al·lèrgiques al pol·len,Svetlana
+Al·lèrgiques al pol·len,FADES
+Al·lèrgiques al pol·len,La Ludwig Band
+Al·lèrgiques al pol·len,miquel
+Ven'nus,Jo Jet i Maria Ribot
+Jo Jet i Maria Ribot,Ariox
+Jo Jet i Maria Ribot,Ven'nus
+Jo Jet i Maria Ribot,Caldo
+Jo Jet i Maria Ribot,Reïna
+Jo Jet i Maria Ribot,Maria Jaume
+Jo Jet i Maria Ribot,Guillem Ramisa
+Jo Jet i Maria Ribot,Mar Pujol
+Jo Jet i Maria Ribot,Da Souza
+Jo Jet i Maria Ribot,roserona
+Jo Jet i Maria Ribot,Anna Andreu
+Jo Jet i Maria Ribot,Mireia Vives & Borja Penalba
+Jo Jet i Maria Ribot,Socunbohemio
+Jo Jet i Maria Ribot,Kerrature
+Jo Jet i Maria Ribot,paunezz
+Jo Jet i Maria Ribot,Al·lèrgiques al pol·len
+Jo Jet i Maria Ribot,Massaviu
+Jo Jet i Maria Ribot,miquel
+Jo Jet i Maria Ribot,Lluís Cabot
+Jo Jet i Maria Ribot,Marcel i Júlia
+Jo Jet i Maria Ribot,Marialluïsa
+Ven'nus,Da Souza
+Da Souza,Lluís Cabot
+Da Souza,Reïna
+Da Souza,Miquel Serra
+Da Souza,Maria Jaume
+Da Souza,Jorra i Gomorra
+Da Souza,Salvatge Cor
+Da Souza,Marialluïsa
+Da Souza,Germà Aire
+Da Souza,Renaldo & Clara
+Da Souza,MARIA HEIN
+Da Souza,Joan Miquel Oliver
+Da Souza,Jo Jet i Maria Ribot
+Da Souza,Ferran Palau
+Da Souza,Socunbohemio
+Da Souza,La Ludwig Band
+Da Souza,Roger Pistola
+Da Souza,Plan-ET
+Da Souza,Anna Andreu
+Da Souza,El Petit De Cal Eril
+Da Souza,Roig!
+Ven'nus,Pau Vallvé
+Pau Vallvé,Ferran Palau
+Pau Vallvé,Socunbohemio
+Pau Vallvé,Maria Jaume
+Pau Vallvé,El Petit De Cal Eril
+Pau Vallvé,Da Souza
+Pau Vallvé,La iaia
+Pau Vallvé,Joan Miquel Oliver
+Pau Vallvé,Jo Jet i Maria Ribot
+Pau Vallvé,Joan Colomo
+Pau Vallvé,Mishima
+Pau Vallvé,Renaldo & Clara
+Pau Vallvé,La Ludwig Band
+Pau Vallvé,Maria Coma
+Pau Vallvé,Inspira
+Pau Vallvé,Guillem Gisbert
+Pau Vallvé,Sanjosex
+Pau Vallvé,Ginestà
+Pau Vallvé,Guillem Ramisa
+Pau Vallvé,Mazoni
+Pau Vallvé,Ven'nus
+Ven'nus,Moli
+Moli,Prodbymarshall
+Moli,Massaviu
+Moli,Ariox
+Moli,roserona
+Moli,Caldo
+Moli,Uri
+Moli,paunezz
+Moli,Linària
+Moli,Ven'nus
+Moli,Noxtorn
+Moli,Galgo Lento
+Moli,Cooba
+Moli,poggioli
+Moli,Iglú
+Moli,Alba Grasa
+Moli,miquel
+Moli,Lluc
+Moli,Sabana
+Moli,VITTARA
+Moli,Mårshåll
+Ven'nus,Lluc
+Lluc,jamzz
+Lluc,Chill C
+Lluc,Massaviu
+Lluc,enMatu
+Lluc,kuu
+Lluc,poggioli
+Lluc,Pol Bordas
+Lluc,IZZKID
+Lluc,dani6ix
+Lluc,Joe Pops
+Lluc,Iglú
+Lluc,Kashlo
+Lluc,Martigo
+Lluc,xicu
+Lluc,Caldo
+Lluc,Flashy Ice Cream
+Lluc,Ariox
+Lluc,Will.X.O
+Lluc,Noxtorn
+Lluc,Calagher
+Ven'nus,La Ludwig Band
+La Ludwig Band,Guillem Gisbert
+La Ludwig Band,Maria Jaume
+La Ludwig Band,Da Souza
+La Ludwig Band,Socunbohemio
+La Ludwig Band,Guillem Ramisa
+La Ludwig Band,Jo Jet i Maria Ribot
+La Ludwig Band,Fetus
+La Ludwig Band,Al·lèrgiques al pol·len
+La Ludwig Band,Pau Vallvé
+La Ludwig Band,Renaldo & Clara
+La Ludwig Band,La iaia
+La Ludwig Band,Reïna
+La Ludwig Band,Ven'nus
+La Ludwig Band,Dan Peralbo i El Comboi
+La Ludwig Band,MARIA HEIN
+La Ludwig Band,Remei de Ca la Fresca
+La Ludwig Band,Ginestà
+La Ludwig Band,Joan Miquel Oliver
+La Ludwig Band,Anna Andreu
+La Ludwig Band,Mishima
+Ven'nus,Ginestà
+Ginestà,Maio
+Ginestà,Al·lèrgiques al pol·len
+Ginestà,Ven'nus
+Ginestà,MARIA HEIN
+Ginestà,Socunbohemio
+Ginestà,Jo Jet i Maria Ribot
+Ginestà,Maria Jaume
+Ginestà,Figa Flawas
+Ginestà,Ariox
+Ginestà,Julieta
+Ginestà,xicu
+Ginestà,Roba Estesa
+Ginestà,Joan Dausà
+Ginestà,Sexenni
+Ginestà,Vienna
+Ginestà,La Fúmiga
+Ginestà,Iglú
+Ginestà,Xavi Sarrià
+Ginestà,Pau Vallvé
+Ginestà,Guillem Gisbert
+Ven'nus,indie catala
+Ven'nus,musica catalana
+Massaviu,trap catala
+Massaviu,indie catala
+Massaviu,musica catalana
+Massaviu,trap catala
+Massaviu,indie catala
+Massaviu,musica catalana
+Massaviu,indie catala
+Massaviu,musica catalana
+Massaviu,indie catala
+Massaviu,musica catalana
+Massaviu,musica catalana
+Massaviu,indie catala
+Massaviu,trap catala
+Massaviu,indie catala
+Massaviu,indie catala
+Massaviu,musica catalana
+Massaviu,indie catala
+Massaviu,indie catala
+Massaviu,musica catalana
+Ven'nus,indie catala
+Ven'nus,musica catalana
+Ven'nus,indie catala
+Ven'nus,musica catalana
+Ven'nus,indie catala
+Ven'nus,musica catalana
+Ven'nus,indie catala
+Ven'nus,musica catalana
+Ven'nus,indie catala
+Ven'nus,musica catalana
+Ven'nus,indie catala
+Ven'nus,musica catalana
+Ven'nus,indie catala
+Ven'nus,musica catalana
+Ven'nus,indie catala
+Ven'nus,indie catala
+Ven'nus,indie catala
+Ven'nus,rock catala
+Ven'nus,indie catala
+Ven'nus,indie catala
+Ven'nus,trap catala
+Ven'nus,musica catalana
+Ven'nus,indie catala
+Ven'nus,indie catala
+Ven'nus,rock catala
+Ven'nus,indie catala
+Ven'nus,musica catalana
+Ariox,indie catala
+Ariox,indie catala
+Ariox,musica catalana
+Ariox,indie catala
+Ariox,musica catalana
+Ariox,indie catala
+Ariox,musica catalana
+Ariox,indie catala
+Ariox,musica catalana
+Ariox,trap catala
+Ariox,musica catalana
+Ariox,indie catala
+Ariox,indie catala
+Ariox,musica catalana
+Ariox,indie catala
+Ariox,trap catala
+Ariox,indie catala
+Ariox,musica catalana
+Ariox,indie catala
+Ariox,indie catala
+Ariox,rock catala
+Ariox,indie catala
+Ven'nus,indie catala
+Ven'nus,musica catalana
+roserona,indie catala
+roserona,musica catalana
+roserona,indie catala
+roserona,musica catalana
+roserona,musica catalana
+roserona,indie catala
+roserona,musica catalana
+roserona,indie catala
+roserona,musica catalana
+roserona,trap catala
+roserona,indie catala
+roserona,trap catala
+roserona,indie catala
+roserona,indie catala
+roserona,indie catala
+roserona,indie catala
+roserona,musica catalana
+roserona,indie catala
+roserona,indie catala
+roserona,musica catalana
+roserona,indie catala
+Ven'nus,indie catala
+Ven'nus,rock catala
+Maria Jaume,indie catala
+Maria Jaume,indie catala
+Maria Jaume,indie catala
+Maria Jaume,musica mallorquina
+Maria Jaume,rock catala
+Maria Jaume,indie catala
+Maria Jaume,musica mallorquina
+Maria Jaume,indie catala
+Maria Jaume,indie catala
+Maria Jaume,musica catalana
+Maria Jaume,indie catala
+Maria Jaume,rock catala
+Maria Jaume,indie catala
+Maria Jaume,musica catalana
+Maria Jaume,indie catala
+Maria Jaume,musica mallorquina
+Maria Jaume,indie catala
+Maria Jaume,rock catala
+Maria Jaume,indie catala
+Maria Jaume,indie catala
+Maria Jaume,musica catalana
+Maria Jaume,indie catala
+Maria Jaume,indie catala
+Maria Jaume,rock catala
+Maria Jaume,indie catala
+Maria Jaume,musica catalana
+Maria Jaume,indie catala
+Maria Jaume,musica catalana
+Maria Jaume,indie catala
+Maria Jaume,musica mallorquina
+Maria Jaume,cantautor catala
+Maria Jaume,indie catala
+Maria Jaume,rock catala
+Ven'nus,indie catala
+Ven'nus,musica catalana
+xicu,indie catala
+xicu,musica catalana
+xicu,indie catala
+xicu,musica catalana
+xicu,musica catalana
+xicu,indie catala
+xicu,musica catalana
+xicu,indie catala
+xicu,musica catalana
+xicu,indie catala
+xicu,musica catalana
+xicu,indie catala
+xicu,indie catala
+xicu,indie catala
+xicu,indie catala
+xicu,trap catala
+xicu,indie catala
+xicu,indie catala
+xicu,musica catalana
+xicu,indie catala
+xicu,rock catala
+Ven'nus,indie catala
+miquel,indie catala
+miquel,indie catala
+miquel,musica catalana
+miquel,indie catala
+miquel,musica catalana
+miquel,indie catala
+miquel,musica catalana
+miquel,indie catala
+miquel,musica catalana
+miquel,indie catala
+miquel,musica catalana
+miquel,indie catala
+miquel,musica catalana
+miquel,musica catalana
+miquel,indie catala
+miquel,indie catala
+miquel,indie catala
+miquel,indie catala
+miquel,rock catala
+miquel,trap catala
+Ven'nus,indie catala
+MARIA HEIN,indie catala
+MARIA HEIN,rock catala
+MARIA HEIN,indie catala
+MARIA HEIN,indie catala
+MARIA HEIN,musica catalana
+MARIA HEIN,indie catala
+MARIA HEIN,musica catalana
+MARIA HEIN,indie catala
+MARIA HEIN,musica catalana
+MARIA HEIN,indie catala
+MARIA HEIN,musica catalana
+MARIA HEIN,indie catala
+MARIA HEIN,musica mallorquina
+MARIA HEIN,rock catala
+MARIA HEIN,indie catala
+MARIA HEIN,indie catala
+MARIA HEIN,musica catalana
+MARIA HEIN,trap catala
+MARIA HEIN,indie catala
+MARIA HEIN,musica catalana
+MARIA HEIN,indie catala
+MARIA HEIN,indie catala
+MARIA HEIN,musica catalana
+MARIA HEIN,indie catala
+MARIA HEIN,musica catalana
+bert bert,indie catala
+bert bert,indie catala
+bert bert,musica catalana
+bert bert,indie catala
+bert bert,indie catala
+bert bert,musica catalana
+bert bert,indie catala
+bert bert,musica catalana
+bert bert,indie catala
+bert bert,trap catala
+bert bert,indie catala
+bert bert,musica catalana
+bert bert,indie catala
+bert bert,musica catalana
+bert bert,musica catalana
+bert bert,indie catala
+bert bert,musica catalana
+bert bert,indie catala
+bert bert,indie catala
+bert bert,indie catala
+bert bert,trap catala
+Ven'nus,indie catala
+Reïna,indie catala
+Reïna,musica mallorquina
+Reïna,indie catala
+Reïna,rock catala
+Reïna,musica mallorquina
+Reïna,indie catala
+Reïna,musica mallorquina
+Reïna,rock catala
+Reïna,indie catala
+Reïna,musica mallorquina
+Reïna,indie catala
+Reïna,indie catala
+Reïna,musica mallorquina
+Reïna,indie catala
+Reïna,musica catalana
+Reïna,indie catala
+Reïna,musica mallorquina
+Reïna,indie catala
+Reïna,musica catalana
+Reïna,musica mallorquina
+Reïna,indie catala
+Reïna,musica catalana
+Reïna,indie catala
+Reïna,musica catalana
+Reïna,musica mallorquina
+Caldo,musica catalana
+Caldo,trap catala
+Caldo,indie catala
+Caldo,musica catalana
+Caldo,indie catala
+Caldo,musica catalana
+Caldo,indie catala
+Caldo,musica catalana
+Caldo,indie catala
+Caldo,musica catalana
+Caldo,indie catala
+Caldo,musica catalana
+Caldo,trap catala
+Caldo,indie catala
+Caldo,indie catala
+Caldo,musica catalana
+Ven'nus,indie catala
+Ven'nus,musica catalana
+Iglú,indie catala
+Iglú,musica catalana
+Iglú,indie catala
+Iglú,musica catalana
+Iglú,trap catala
+Iglú,indie catala
+Iglú,musica catalana
+Iglú,indie catala
+Iglú,musica catalana
+Iglú,indie catala
+Iglú,musica catalana
+Iglú,indie catala
+Iglú,musica catalana
+Iglú,indie catala
+Iglú,indie catala
+Iglú,musica catalana
+Iglú,indie catala
+Iglú,musica catalana
+Iglú,indie catala
+Iglú,indie catala
+Iglú,indie catala
+Iglú,musica catalana
+Iglú,rap catala
+Iglú,trap catala
+Ven'nus,indie catala
+Ven'nus,musica catalana
+Al·lèrgiques al pol·len,indie catala
+Al·lèrgiques al pol·len,musica catalana
+Al·lèrgiques al pol·len,indie catala
+Al·lèrgiques al pol·len,musica catalana
+Al·lèrgiques al pol·len,indie catala
+Al·lèrgiques al pol·len,musica catalana
+Al·lèrgiques al pol·len,indie catala
+Al·lèrgiques al pol·len,musica catalana
+Al·lèrgiques al pol·len,indie catala
+Al·lèrgiques al pol·len,musica catalana
+Al·lèrgiques al pol·len,indie catala
+Al·lèrgiques al pol·len,rock catala
+Al·lèrgiques al pol·len,musica catalana
+Al·lèrgiques al pol·len,indie catala
+Al·lèrgiques al pol·len,indie catala
+Al·lèrgiques al pol·len,cantautor catala
+Al·lèrgiques al pol·len,indie catala
+Al·lèrgiques al pol·len,musica catalana
+Al·lèrgiques al pol·len,rock catala
+Al·lèrgiques al pol·len,indie catala
+Al·lèrgiques al pol·len,rock catala
+Al·lèrgiques al pol·len,indie catala
+Al·lèrgiques al pol·len,musica catalana
+Al·lèrgiques al pol·len,indie catala
+Al·lèrgiques al pol·len,musica catalana
+Al·lèrgiques al pol·len,indie catala
+Al·lèrgiques al pol·len,indie catala
+Al·lèrgiques al pol·len,rock catala
+Al·lèrgiques al pol·len,indie catala
+Ven'nus,indie catala
+Ven'nus,rock catala
+Jo Jet i Maria Ribot,indie catala
+Jo Jet i Maria Ribot,musica catalana
+Jo Jet i Maria Ribot,indie catala
+Jo Jet i Maria Ribot,musica catalana
+Jo Jet i Maria Ribot,indie catala
+Jo Jet i Maria Ribot,indie catala
+Jo Jet i Maria Ribot,rock catala
+Jo Jet i Maria Ribot,cantautor catala
+Jo Jet i Maria Ribot,indie catala
+Jo Jet i Maria Ribot,rock catala
+Jo Jet i Maria Ribot,indie catala
+Jo Jet i Maria Ribot,indie catala
+Jo Jet i Maria Ribot,musica mallorquina
+Jo Jet i Maria Ribot,rock catala
+Jo Jet i Maria Ribot,indie catala
+Jo Jet i Maria Ribot,musica catalana
+Jo Jet i Maria Ribot,indie catala
+Jo Jet i Maria Ribot,cantautor catala
+Jo Jet i Maria Ribot,rock catala
+Jo Jet i Maria Ribot,indie catala
+Jo Jet i Maria Ribot,indie catala
+Jo Jet i Maria Ribot,indie catala
+Jo Jet i Maria Ribot,musica catalana
+Jo Jet i Maria Ribot,indie catala
+Jo Jet i Maria Ribot,musica catalana
+Jo Jet i Maria Ribot,indie catala
+Jo Jet i Maria Ribot,indie catala
+Jo Jet i Maria Ribot,musica mallorquina
+Jo Jet i Maria Ribot,cantautor catala
+Jo Jet i Maria Ribot,indie catala
+Jo Jet i Maria Ribot,musica catalana
+Jo Jet i Maria Ribot,rock catala
+Jo Jet i Maria Ribot,indie catala
+Ven'nus,indie catala
+Ven'nus,musica mallorquina
+Ven'nus,rock catala
+Da Souza,indie catala
+Da Souza,musica mallorquina
+Da Souza,indie catala
+Da Souza,indie catala
+Da Souza,musica mallorquina
+Da Souza,indie catala
+Da Souza,rock catala
+Da Souza,indie catala
+Da Souza,musica mallorquina
+Da Souza,indie catala
+Da Souza,musica mallorquina
+Da Souza,indie catala
+Da Souza,indie catala
+Da Souza,indie catala
+Da Souza,rock catala
+Da Souza,indie catala
+Da Souza,cantautor
+Da Souza,cantautor catala
+Da Souza,indie catala
+Da Souza,musica mallorquina
+Da Souza,rock catala
+Da Souza,indie catala
+Da Souza,rock catala
+Da Souza,cantautor catala
+Da Souza,indie catala
+Da Souza,rock catala
+Da Souza,indie catala
+Da Souza,indie catala
+Da Souza,rock catala
+Da Souza,musica mallorquina
+Da Souza,indie catala
+Da Souza,cantautor catala
+Da Souza,indie catala
+Da Souza,rock catala
+Da Souza,musica mallorquina
+Ven'nus,cantautor catala
+Ven'nus,indie catala
+Ven'nus,rock catala
+Pau Vallvé,cantautor catala
+Pau Vallvé,indie catala
+Pau Vallvé,rock catala
+Pau Vallvé,indie catala
+Pau Vallvé,indie catala
+Pau Vallvé,rock catala
+Pau Vallvé,cantautor catala
+Pau Vallvé,indie catala
+Pau Vallvé,rock catala
+Pau Vallvé,indie catala
+Pau Vallvé,musica mallorquina
+Pau Vallvé,rock catala
+Pau Vallvé,indie catala
+Pau Vallvé,rock catala
+Pau Vallvé,cantautor
+Pau Vallvé,cantautor catala
+Pau Vallvé,indie catala
+Pau Vallvé,musica mallorquina
+Pau Vallvé,rock catala
+Pau Vallvé,indie catala
+Pau Vallvé,rock catala
+Pau Vallvé,cantautor catala
+Pau Vallvé,indie catala
+Pau Vallvé,rock catala
+Pau Vallvé,indie catala
+Pau Vallvé,rock catala
+Pau Vallvé,indie catala
+Pau Vallvé,rock catala
+Pau Vallvé,indie catala
+Pau Vallvé,rock catala
+Pau Vallvé,indie catala
+Pau Vallvé,indie catala
+Pau Vallvé,spanish indie folk
+Pau Vallvé,indie catala
+Pau Vallvé,cantautor
+Pau Vallvé,indie catala
+Pau Vallvé,rock catala
+Pau Vallvé,cantautor catala
+Pau Vallvé,indie catala
+Pau Vallvé,musica catalana
+Pau Vallvé,rock catala
+Pau Vallvé,cantautor catala
+Pau Vallvé,indie catala
+Pau Vallvé,rock catala
+Pau Vallvé,indie catala
+Pau Vallvé,rock catala
+Pau Vallvé,indie catala
+Pau Vallvé,musica catalana
+Moli,indie catala
+Moli,musica catalana
+Moli,indie catala
+Moli,musica catalana
+Moli,indie catala
+Moli,musica catalana
+Moli,musica catalana
+Moli,indie catala
+Moli,indie catala
+Moli,musica catalana
+Moli,trap catala
+Moli,indie catala
+Moli,indie catala
+Moli,musica catalana
+Moli,indie catala
+Moli,trap catala
+Ven'nus,trap catala
+Lluc,trap catala
+Lluc,indie catala
+Lluc,musica catalana
+Lluc,trap catala
+Lluc,hyperpop en espanol
+Lluc,indie catala
+Lluc,musica catalana
+Lluc,trap triste
+Lluc,indie catala
+Lluc,musica catalana
+Lluc,rap catala
+Lluc,trap catala
+Lluc,indie catala
+Lluc,musica catalana
+Lluc,trap catala
+Ven'nus,indie catala
+Ven'nus,rock catala
+La Ludwig Band,indie catala
+La Ludwig Band,indie catala
+La Ludwig Band,rock catala
+La Ludwig Band,indie catala
+La Ludwig Band,musica mallorquina
+La Ludwig Band,rock catala
+La Ludwig Band,indie catala
+La Ludwig Band,cantautor catala
+La Ludwig Band,indie catala
+La Ludwig Band,rock catala
+La Ludwig Band,indie catala
+La Ludwig Band,rock catala
+La Ludwig Band,indie catala
+La Ludwig Band,punk catala
+La Ludwig Band,rock catala
+La Ludwig Band,indie catala
+La Ludwig Band,musica catalana
+La Ludwig Band,cantautor catala
+La Ludwig Band,indie catala
+La Ludwig Band,rock catala
+La Ludwig Band,indie catala
+La Ludwig Band,rock catala
+La Ludwig Band,indie catala
+La Ludwig Band,rock catala
+La Ludwig Band,indie catala
+La Ludwig Band,indie catala
+La Ludwig Band,musica catalana
+La Ludwig Band,indie catala
+La Ludwig Band,indie catala
+La Ludwig Band,indie catala
+La Ludwig Band,cantautor catala
+La Ludwig Band,indie catala
+La Ludwig Band,musica catalana
+La Ludwig Band,rock catala
+La Ludwig Band,cantautor
+La Ludwig Band,cantautor catala
+La Ludwig Band,indie catala
+La Ludwig Band,musica mallorquina
+La Ludwig Band,rock catala
+La Ludwig Band,indie catala
+La Ludwig Band,indie catala
+La Ludwig Band,rock catala
+Ven'nus,cantautor catala
+Ven'nus,indie catala
+Ven'nus,musica catalana
+Ven'nus,rock catala
+Ginestà,musica catalana
+Ginestà,indie catala
+Ginestà,musica catalana
+Ginestà,indie catala
+Ginestà,musica catalana
+Ginestà,indie catala
+Ginestà,indie catala
+Ginestà,indie catala
+Ginestà,rock catala
+Ginestà,indie catala
+Ginestà,rock catala
+Ginestà,musica catalana
+Ginestà,indie catala
+Ginestà,musica catalana
+Ginestà,musica catalana
+Ginestà,indie catala
+Ginestà,musica catalana
+Ginestà,indie catala
+Ginestà,musica catalana
+Ginestà,rock catala
+Ginestà,cantautor catala
+Ginestà,indie catala
+Ginestà,rock catala
+Ginestà,musica catalana
+Ginestà,indie catala
+Ginestà,musica catalana
+Ginestà,indie valenciana
+Ginestà,musica catalana
+Ginestà,ska catala
+Ginestà,indie catala
+Ginestà,musica catalana
+Ginestà,cantautor catala
+Ginestà,musica valenciana
+Ginestà,rock catala
+Ginestà,ska catala
+Ginestà,cantautor catala
+Ginestà,indie catala
+Ginestà,rock catala
+Ginestà,indie catala
